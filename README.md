@@ -3,14 +3,15 @@ This Website Create by Css and Html
 
 This website template contains eight Pages 
 
-Dashboard
-Profile
-Project
+Dashboard-
+Profile-
+Project-
 Setting
-Courses
-Friends
-Files
-Plans
+Courses-
+Friends-
+Files-
+Plans-
 
 
 I'm get this design from elzero.org 
+I hope you like it
